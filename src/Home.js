@@ -32,7 +32,7 @@ function Home() {
                     />
                     <Product 
                     id = '32182094'
-                    title= 'PATPET Dog Training Collar- w/3 Training Modes, Beep, Vibration and Shock, Up to 1000 ft Remote Range.'
+                    title= 'PATPET Dog Training Collar- w/3 Training Modes, Beep, Vibration , Up to 1000 ft Remote Range.'
                     price={23.79}
                     rating={2}
                     image="https://images-na.ssl-images-amazon.com/images/I/71Ed3IKAAIL._AC_SL1500_.jpg"   
