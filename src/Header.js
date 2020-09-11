@@ -12,7 +12,7 @@ function Header() {
     return (
         <div className ='header'>
             <Link to= "/">
-                <img  className="header_logo" src ="http://pngimg.com/uploads/amazon/amazon_PNG11.png"/>
+                <img  className="header_logo" src ="http://pngimg.com/uploads/amazon/amazon_PNG11.png" alt=""/>
             </Link>
 
             <div className = "header_search">
@@ -23,10 +23,12 @@ function Header() {
             </div>
 
                 <div className="header_nav">
-                    <div className="header_option">
-                        <span className="header_optionLineOne">Hello Guest</span>
-                        <span className="header_optionLineTwo">Sign In</span>
-                    </div>
+                    <Link to="/Login">
+                        <div className="header_option">
+                            <span className="header_optionLineOne">Hello Guest</span>
+                            <span className="header_optionLineTwo">Sign In</span>
+                        </div>
+                    </Link>
 
                     
                     <div className="header_option">
