@@ -32,7 +32,7 @@ function Payment() {
             const response = await axios({
                 method: 'post',
                 // Stripe expects the total in a currencies subunits
-                url: `/payments/create?total=${getBasketTotal(basket) * 100 }`
+                url: `/payments/create?total=${getBasketTotal(basket) * 100}`
             });
             setclientSecret(response.data.clientSecret)
         }
@@ -58,6 +58,10 @@ function Payment() {
              setSucceeded(true);
              setError(null);
              setProccessing(false);
+             
+             dispatch({
+                 type: 'EMPTY_BASKET'
+             })
 
              history.replace('/orders')
          })

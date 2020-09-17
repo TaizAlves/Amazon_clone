@@ -16,5 +16,13 @@ const firebaseConfig = {
   const db = firebase.firestore();
   const auth = firebase.auth();
 
-  export { db, auth};
+  const runtimeOpts = {
+    timeoutSeconds: 300,
+    memory: '1GB'
+  }
+  
+ 
+  
+
+  export { db, auth, runtimeOpts};
   
