@@ -24,5 +24,5 @@ const firebaseConfig = {
  
   
 
-  export { db, auth, runtimeOpts};
+  export { db, auth };
   
