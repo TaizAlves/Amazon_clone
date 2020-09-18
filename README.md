@@ -1,7 +1,17 @@
 <h1 align="center">
+    <img alt="CheckOut" title="CheckOut" src="/public/home.PNG" style="width:3rem"/>
     <img alt="CheckOut" title="CheckOut" src="/public/basketCheckout.PNG" style="width:3rem"/>
     <img alt="Order" title="Order" src="/public/YourOrder.PNG" style="width:3rem"/>
 </h1>
+
+## :Technologies
+
+- [React](https://github.com/facebook/create-react-app)
+- [JavaScript](https://www.javascript.com)
+- [Firebase](https://firebase.google.com/)
+- [Stripe](https://stripe.com/br)
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
