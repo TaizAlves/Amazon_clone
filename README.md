@@ -1,6 +1,6 @@
 <h1 align="center">
-    <img alt="CheckOut" title="CheckOut" src="/public/home.PNG" style="width:2rem; margin-bottom:30px"/>
-    <img alt="CheckOut" title="CheckOut" src="/public/basketCheckout.PNG" style="width:2rem; margin-bottom:5px"/>
+    <img alt="CheckOut" title="CheckOut" src="/public/home.PNG" style="width:2rem"/>
+    <img alt="CheckOut" title="CheckOut" src="/public/basketCheckout.PNG" style="width:2rem; margin-bottom:5px; ; margin-top:30px"/>
     <img alt="Order" title="Order" src="/public/YourOrder.PNG" style="width:2rem; margin-bottom:5px"/>
 </h1>
 
