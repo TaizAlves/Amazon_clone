@@ -39,7 +39,7 @@ function App() {
     })
   }, [])
   return (
-    // BEM
+    
   <Router>
   <div className="App">
     
