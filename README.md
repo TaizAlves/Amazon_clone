@@ -1,7 +1,7 @@
 <h1 align="center">
-    <img alt="CheckOut" title="CheckOut" src="/public/home.PNG" style="width:3rem, margin-botton:5px"/>
-    <img alt="CheckOut" title="CheckOut" src="/public/basketCheckout.PNG" style="width:3rem, margin-botton:5px"/>
-    <img alt="Order" title="Order" src="/public/YourOrder.PNG" style="width:3rem, margin-botton:5px"/>
+    <img alt="CheckOut" title="CheckOut" src="/public/home.PNG" style="width:3rem; margin-bottom:5px"/>
+    <img alt="CheckOut" title="CheckOut" src="/public/basketCheckout.PNG" style="width:3rem; margin-bottom:5px"/>
+    <img alt="Order" title="Order" src="/public/YourOrder.PNG" style="width:3rem; margin-bottom:5px"/>
 </h1>
 
 ## Technologies
