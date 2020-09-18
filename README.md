@@ -1,6 +1,6 @@
 <h1 align="center">
-    <img alt="CheckOut" title="CheckOut" src="basketCheckout.png" style="width:3rem"/>
-    <img alt="Order" title="Order" src="YourOrder.png" style="width:3rem"/>
+    <img alt="CheckOut" title="CheckOut" src="./public/basketCheckout.png" style="width:3rem"/>
+    <img alt="Order" title="Order" src="./public/YourOrder.png" style="width:3rem"/>
 </h1>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
