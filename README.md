@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="CheckOut" title="CheckOut" src="/public/home.PNG" style="width:15rem"/>
+    <img alt="CheckOut" title="CheckOut" src="/public/home.PNG" style="width:45rem"/>
     <br/> <br/>
     <img alt="CheckOut" title="CheckOut" src="/public/basketCheckout.PNG" style="width:2rem; margin-bottom:5px; ; margin-top:30px"/>
     <img alt="Order" title="Order" src="/public/YourOrder.PNG" style="width:2rem; margin-bottom:5px"/>
